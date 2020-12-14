@@ -1,0 +1,4 @@
+cmd -ia
+cmd -ia
+cmd -i -a
+cmd -i -a
